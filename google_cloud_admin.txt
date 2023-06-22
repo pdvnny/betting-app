@@ -1,0 +1,17 @@
+
+================= June 21, 2023 =================
+
+Created a Google Cloud account with my personal email
+Created a "service account" (within IAM & Admin) in "betting-app" project.
+
+Account Information
+- streamlit-community-cloud@betting-app-390518.iam.gserviceaccount.com
+- Unique ID: 100385867346401562636 
+
+Created JSON key --> betting-app-390518-d26385cf20cf.json
+- Downloaded this and saved it to my Google Drive folder
+
+*** SETUP SECRETS FILE FOR STREAMLIT ***
+This process will have to be repeated for each OS! (I think)
+
+Location of information about this process: https://docs.streamlit.io/knowledge-base/tutorials/databases/private-gsheet
